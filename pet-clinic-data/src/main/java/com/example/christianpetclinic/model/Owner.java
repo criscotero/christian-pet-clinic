@@ -1,4 +1,4 @@
 package com.example.christianpetclinic.model;
 
-public class Owner extends Person {
+public class Owner extends BaseEntity {
 }
